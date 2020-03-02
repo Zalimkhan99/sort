@@ -58,3 +58,13 @@ input{
 	color: green;
 	text-align: center;
 }
+
+.rest{
+	text-decoration: none;
+	background-color:  #97ccd1;
+	border: 1px solid #fff;
+	padding: 1px;
+	font-weight: bold;
+	color: green;
+	margin-left: 10px;
+}

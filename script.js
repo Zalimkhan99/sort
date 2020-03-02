@@ -6,6 +6,7 @@ var nameClass = ['block_0','block_1','block_2','block_3','block_4']
 var sizefigure = [50,100,25,40,15];
 
 
+
 function bubbleSort(array) {
 
   let swapp;
