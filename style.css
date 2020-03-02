@@ -1,0 +1,60 @@
+.blocks{
+	width: 400px;
+	height: 200px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	background-color: #1a2f30 ;
+}
+
+.block_0{
+
+text-align: center;
+margin: 5px;
+background-color:#97ccd1;
+}
+
+.block_1{
+
+text-align: center;
+margin: 5px;
+background-color: #97ccd1;
+}
+
+.block_2{
+
+text-align: center;
+margin: 5px;
+background-color: #97ccd1;
+}
+
+.block_3{
+
+text-align: center;
+margin: 5px;
+background-color: #97ccd1;
+}
+
+.block_4{
+
+text-align: center;
+margin: 5px;
+background-color: #97ccd1;
+}
+
+.btn{
+	margin-top: 5px;
+	text-align: center;
+
+}
+input{
+	font-weight: bold;
+	color: green;
+	background:  #97ccd1;
+}
+
+.author{
+	font-weight: bold;
+	color: green;
+	text-align: center;
+}
